@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/LaoTarget_luminance.png",
+  "metadata": null,
+  "name": "LaoTarget",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 95,
+    "width": 816,
+    "height": 1088,
+    "isRotated": false,
+    "originalWidth": 816,
+    "originalHeight": 1278
+  },
+  "resources": {
+    "originalImage": "LaoTarget_original.png",
+    "croppedImage": "LaoTarget_cropped.png",
+    "thumbnailImage": "LaoTarget_thumbnail.png",
+    "luminanceImage": "LaoTarget_luminance.png"
+  },
+  "created": 1776775385221,
+  "updated": 1776775385221
+}
